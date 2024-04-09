@@ -49,4 +49,8 @@ QcBe0Fqv9BwQ7QH/PkqiBJ3D7xN14huGXYMKqww=
 </details>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/digital-shokunin/digital-shokunin/main/github-snake.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/digital-shokunin/snk/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/digital-shokunin/snk/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/digital-shokunin/snk/main/dist/github-contribution-grid-snake.svg)" />
+</picture>
